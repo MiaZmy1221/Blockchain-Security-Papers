@@ -2,7 +2,7 @@
 
 
 ## 1. Usenix
-### Usenix 2023 Accepted Papers (3 Cycles)
+### 2023 Accepted Papers (3 Cycles)
 #### Summer
 N/A
 
