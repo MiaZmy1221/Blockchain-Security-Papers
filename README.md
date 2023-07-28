@@ -62,4 +62,11 @@
 
 
 ### 2022 Accepted Papers (2 Cycles)
-* 
+* Bose, Priyanka, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, and Giovanni Vigna. ["Sailfish: Vetting smart contract state-inconsistency bugs in seconds."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833721.pdf?casa_token=4NC7ji7zlx0AAAAA:3xXmcY9jdO0yeRy88m2dRYMUyuKTthzJkvlME7cMRJDn6dBpRe9ISCLD_OYTq1B6WebNk-LLPw)
+* Steffen, Samuel, Benjamin Bichsel, Roger Baumgartner, and Martin Vechev. ["Zeestar: Private smart contracts by homomorphic encryption and zero-knowledge proofs."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833732.pdf?casa_token=4YbuiLlCSvAAAAAA:bm4OCws7U_bzaWD051Y-6eLRY1Vbo-mgTRTRZUptzrOcB9cbrW3dVZ2020lo6SDwW55cLZZgYQ)
+* Qin, Kaihua, Liyi Zhou, and Arthur Gervais. ["Quantifying blockchain extractable value: How dark is the forest?."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833734.pdf?casa_token=UgWUZmOgIJYAAAAA:NHz6DTIIZYbVNWZBHu9my2C5yS8MiSlAGwLllDlytSB2v79Wavs-lphCsEJCoeiCBbEiREJgJQ)
+* Hou, Ruomu, Haifeng Yu, and Prateek Saxena. ["Using throughput-centric byzantine broadcast to tolerate malicious majority in blockchains."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833617.pdf?casa_token=xt1HPFDQ46cAAAAA:lwG7x5vpoOBRmNlH_YnykHsJUTxBHufQYMYb0-QW4kmIrY0EOI4lnp98Fi6x3W40aoFAR-bgvA)
+* Esgin, Muhammed F., Ron Steinfeld, and Raymond K. Zhao. ["MatRiCT+: More efficient post-quantum private blockchain payments."](https://ieeexplore.ieee.org/document/9833655)
+* Thyagarajan, Sri AravindaKrishnan, Giulio Malavolta, and Pedro Moreno-Sanchez. ["Universal atomic swaps: Secure exchange of coins across all blockchains."](https://ieeexplore.ieee.org/document/9833731)
+* Duan, Sisi, and Haibin Zhang. ["Foundations of dynamic BFT."](https://ieeexplore.ieee.org/document/9833787)
+* Vassantlal, Robin, Eduardo Alchieri, Bernardo Ferreira, and Alysson Bessani. ["Cobra: Dynamic proactive secret sharing for confidential bft services."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833658.pdf?casa_token=dG7yoC7FOHIAAAAA:HLe46ZY9uh_STHFhoYlCtdMtOynzgmGmjjw60mUd6CVyoSasSlcSPnM4ySENLk5tApA3oRaCUA)
