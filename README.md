@@ -1,7 +1,7 @@
 # Blockchain-Security-Papers
 
 
-## 1. Usenix (3 Cycles)
+## 1. Usenix
 ### 2023 Accepted Papers 
 * McLaughlin, Robert, Christopher Kruegel, and Giovanni Vigna. ["A Large Scale Study of the Ethereum Arbitrage Ecosystem."](https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin) 
 * Park, Sangdon, Osbert Bastani, and Taesoo Kim. "ACon $^ 2$: ["Adaptive Conformal Consensus for Provable Blockchain Oracles."](https://www.usenix.org/conference/usenixsecurity23/presentation/park)
@@ -49,12 +49,13 @@
 * Kalodner, Harry, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg, and Edward W. Felten. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/conference/usenixsecurity18/presentation/kalodner)
 * Zhou, Yi, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey. ["Erays: reverse engineering ethereum's opaque smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf)
 
-### 2018 Accepted Papers 
-* 
+### 2017 Accepted Papers 
+* Luu, Loi, Yaron Velner, Jason Teutsch, and Prateek Saxena. ["{SmartPool}: Practical Decentralized Pooled Mining."](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf)
+* Zhang, Fan, Ittay Eyal, Robert Escriva, Ari Juels, and Robbert Van Renesse. ["{REM}:{Resource-Efficient} Mining for Blockchains."](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-zhang.pdf)
 
   
 
-## 2.NDSS (2 Cycles)
+## 2.NDSS
 ### 2023 Accepted Papers 
 * Frassetto, Tommaso, Patrick Jauernig, David Koisser, David Kretzler, Benjamin Schlosser, Sebastian Faust, and Ahmad-Reza Sadeghi. ["POSE: Practical off-chain smart contract execution."](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/)
 * Bhat, Adithya, Nibesh Shrestha, Aniket Kate, and Kartik Nayak. "OptRand: [Optimistically Responsive Reconfigurable Distributed Randomness."](https://www.ndss-symposium.org/ndss-paper/optrand-optimistically-responsive-reconfigurable-distributed-randomness/)
@@ -104,9 +105,13 @@
 * Roos, Stefanie, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. ["Settling payments fast and private: Efficient decentralized routing for path-based transactions."](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf)
 * Hubert, Ritzdorf, Wüst Karl, Gervais Arthur, Felley Guillaume, and Capkun Srdjan. ["TLS-N: non-repudiation over TLS enablign ubiquitous content signing."](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-4_Ritzdorf_paper.pdf)
 
+### 2017 Accepted Papers 
+* Heilman, Ethan, Leen Alshenibr, Foteini Baldimtsi, Alessandra Scafuro, and Sharon Goldberg. ["Tumblebit: An untrusted bitcoin-compatible anonymous payment hub."](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/tumblebit-untrusted-bitcoin-compatible-anonymous-payment-hub/)
+* Ruffing, Tim, Pedro Moreno-Sanchez, and Aniket Kate. ["P2P mixing and unlinkable bitcoin transactions."](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/p2p-mixing-and-unlinkable-bitcoin-transactions/)
+
   
 
-## 3.CCS (2 Cycles)
+## 3.CCS
 ### 2023 Accepted Papers 
 * Not published yet
 
@@ -163,9 +168,20 @@
 * Dziembowski, Stefan, Sebastian Faust, and Kristina Hostáková. ["General state channel networks."](https://dl.acm.org/doi/pdf/10.1145/3243734.3243856?casa_token=q5cWj-92BuIAAAAA:Sq3WuITiai1G-ijhxvdeD4saIUdEfRdBYRN7VipDrlCk7ZGBCyDaUoTYB-4UaAuYdW2-gjzP9rToCw)
 * Dziembowski, Stefan, Lisa Eckey, and Sebastian Faust. ["Fairswap: How to fairly exchange digital goods."](https://dl.acm.org/doi/pdf/10.1145/3243734.3243857?casa_token=3hcxI7bQykwAAAAA:1bqXGLwlDiVYbmfBC7_0K_2OBwXeNqDelxQypGMcvmjMAck2EuridpSroutgFYIJOOq6kHq_lVu2xA) 
 
+### 2017 Accepted Papers 
+* Kwon, Yujin, Dohyun Kim, Yunmok Son, Eugene Vasserman, and Yongdae Kim. ["Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134019?casa_token=hqspQVkiCfUAAAAA:5qyy0iSKw2WROhSilY_jVXVLe_Cf9uzzXa2iC6YkVPX06G3cXDr5bwurapfTD5GkAYYw-GuaNzzfCA)
+* Dong, Changyu, Yilei Wang, Amjad Aldweesh, Patrick McCorry, and Aad Van Moorsel. ["Betrayal, distrust, and rationality: Smart counter-collusion contracts for verifiable cloud computing."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134032?casa_token=thktrnnGyMkAAAAA:aqkuQMnc0nr9Qru1C5YaeRTdrRX4PUyURafIZbr9qV5ZojhoWrwaJb3MK8sTBNhgyAgA8JwS9AYkDg)
+* Campanelli, Matteo, Rosario Gennaro, Steven Goldfeder, and Luca Nizzardo. ["Zero-knowledge contingent payments revisited: Attacks and payments for services."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134060)
+* Khalil, Rami, and Arthur Gervais. ["Revive: Rebalancing off-blockchain payment networks."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134033?casa_token=EiiDLgBatOIAAAAA:P05NIVDBJJ5Mr9PgVGDoSD6RSL68ZETN8qaps-9sWUAgpmTwrpEFzJsVkNkicgpx_nwmx6iUm1Hliw)
+* Malavolta, Giulio, Pedro Moreno-Sanchez, Aniket Kate, Matteo Maffei, and Srivatsan Ravi. ["Concurrency and privacy with payment-channel networks."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134096?casa_token=Maai1KAtKMoAAAAA:vx2SbJRpDGfOL798gkTt7UBtmVKBl29gGXC7tyMA29chNJHWC6U4P4XQN0EuNIYQ_avSy7vEGR0LUg)
+* Green, Matthew, and Ian Miers. ["Bolt: Anonymous payment channels for decentralized currencies."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134093)
+* Camenisch, Jan, Manu Drijvers, and Maria Dubovitskaya. ["Practical UC-secure delegatable credentials with attributes and their application to blockchain."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134025?casa_token=olHQo-q4FT0AAAAA:ZaYRLEOi1NDk5LdlyCieX9Aniojw1pS8REN1Uqd_0NMqOSUOQR67LEdMcY0Ft5k0ATSEgmlOZUPAwA)
+* Cecchetti, Ethan, Fan Zhang, Yan Ji, Ahmed Kosba, Ari Juels, and Elaine Shi. ["Solidus: Confidential distributed ledger transactions via PVORM."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134010)
+* Choudhuri, Arka Rai, Matthew Green, Abhishek Jain, Gabriel Kaptchuk, and Ian Miers. ["Fairness in an unfair world: Fair multiparty computation from public bulletin boards."](https://dl.acm.org/doi/pdf/10.1145/3133956.3134092)
 
 
-## 4.S&P (2 Cycles)
+
+## 4.S&P
 ### 2023 Accepted Papers 
 * Choi, Kevin, Aathira Manoj, and Joseph Bonneau. ["SoK: Distributed Randomness Beacons."](https://eprint.iacr.org/2023/728.pdf)
 * Bar-Zur, Roi, Ameer Abu-Hanna, Ittay Eyal, and Aviv Tamar. ["WeRLman: to tackle whale (transactions), go deep (RL)."]([https://dl.acm.org/doi/pdf/10.1145/3534056.3535005?casa_token=U9OJzmPigncAAAAA:tsOqc-_EPq60OfWC5s_qKqNHNIiaqDuYeCutQ9ZpBBqflK67wBjVaWxNJiEWy2Sc_TjO8xvuda60Sw](https://eprint.iacr.org/2022/175.pdf)https://eprint.iacr.org/2022/175.pdf)
@@ -216,3 +232,10 @@
 
 ### 2018 Accepted Papers 
 * N/A
+
+### 2017 Accepted Papers 
+* Apostolaki, Maria, Aviv Zohar, and Laurent Vanbever. ["Hijacking bitcoin: Routing attacks on cryptocurrencies."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958588.pdf?casa_token=pxrEEXcfGJcAAAAA:mcznB252mwM50bPoeQoBAIx-Ocj6CKSU67fph5swnTsv_6v94VFcEfAQ2ipoqGRQ3BCvkRriNA)
+* Tomescu, Alin, and Srinivas Devadas. ["Catena: Efficient non-equivocation via bitcoin."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958589.pdf?casa_token=bAUgGNYBXC8AAAAA:ggy-mQEzPK2ANzOYIfK6U5OB0XjZJcugRgWflFa_-_PdRHMWwNUbsC1Vg8yWdNRrd6wGGELTFQ)
+* Matsumoto, Stephanos, and Raphael M. Reischuk. ["IKP: Turning a PKI around with decentralized automated incentives."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958590.pdf?casa_token=i6NIvnLWKhcAAAAA:Al3UszV5M61ObC10S7aUODBmvl7D9kk3pA1KVgJkSmWzmwO_4I9rD2r1QUOTyyqDHvv4RoZ_rA)
+* Pearce, Paul, Roya Ensafi, Frank Li, Nick Feamster, and Vern Paxson. ["Augur: Internet-wide detection of connectivity disruptions."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958591.pdf?casa_token=n-g2ssPHoEUAAAAA:nmDiQAfzmr63M1F2lQvCrZpsmBY8_Jz9FqOg-X4vTLu9SHJlRjLegCcs0MVs5uKNu49jBowAKA)
+* Syta, Ewa, Philipp Jovanovic, Eleftherios Kokoris Kogias, Nicolas Gailly, Linus Gasser, Ismail Khoffi, Michael J. Fischer, and Bryan Ford. ["Scalable bias-resistant distributed randomness."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958592.pdf?casa_token=5KEovzzgR1YAAAAA:pFKRBDEPsb0h4yA3bpwUedEtsqD8Ntt7IPcjHkyiUMSRYp3Fc2QklAIRbgkCQmvzAvpluLKDxg)
