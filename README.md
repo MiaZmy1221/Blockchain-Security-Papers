@@ -18,6 +18,15 @@
 ### 2022 Accepted Papers (3 Cycles)
 * Kappos, George, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, and Sarah Meiklejohn. ["How to Peel a Million: Validating and Expanding Bitcoin Clusters."](https://www.usenix.org/system/files/sec22-kappos.pdf)
 
+### 2021 Accepted Papers (3 Cycles)
+* Tran, Muoi, Akshaye Shenoi, and Min Suk Kang. ["On the {Routing-Aware} Peering against {Network-Eclipse} Attacks in Bitcoin."](https://www.usenix.org/conference/usenixsecurity21/presentation/tran)
+* He, Ningyu, Ruiyi Zhang, Haoyu Wang, Lei Wu, Xiapu Luo, Yao Guo, Ting Yu, and Xuxian Jiang. ["{EOSAFE}: security analysis of {EOSIO} smart contracts."](https://www.usenix.org/conference/usenixsecurity21/presentation/he-ningyu)
+* Rodler, Michael, Wenting Li, Ghassan O. Karame, and Lucas Davi. ["{EVMPatch}: Timely and automated patching of ethereum smart contracts."](https://www.usenix.org/conference/usenixsecurity21/presentation/rodler)
+* Su, Liya, Xinyue Shen, Xiangyu Du, Xiaojing Liao, XiaoFeng Wang, Luyi Xing, and Baoxu Liu. ["Evil under the sun: understanding and discovering attacks on Ethereum decentralized applications."](https://www.usenix.org/conference/usenixsecurity21/presentation/su)
+* Perez, Daniel, and Benjamin Livshits. ["Smart contract vulnerabilities: Vulnerable does not imply exploited."](https://www.usenix.org/conference/usenixsecurity21/presentation/perez)
+* Torres, Christof Ferreira, and Ramiro Camino. ["Frontrunner jones and the raiders of the dark forest: An empirical study of frontrunning on the ethereum blockchain."](https://www.usenix.org/conference/usenixsecurity21/presentation/torres)
+* So, Sunbeom, Seongjoon Hong, and Hakjoo Oh. ["{SmarTest}: Effectively hunting vulnerable transaction sequences in smart contracts through language {Model-Guided} symbolic execution."](https://www.usenix.org/conference/usenixsecurity21/presentation/so)
+
 
 
 ## 2.NDSS
