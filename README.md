@@ -239,3 +239,34 @@
 * Matsumoto, Stephanos, and Raphael M. Reischuk. ["IKP: Turning a PKI around with decentralized automated incentives."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958590.pdf?casa_token=i6NIvnLWKhcAAAAA:Al3UszV5M61ObC10S7aUODBmvl7D9kk3pA1KVgJkSmWzmwO_4I9rD2r1QUOTyyqDHvv4RoZ_rA)
 * Pearce, Paul, Roya Ensafi, Frank Li, Nick Feamster, and Vern Paxson. ["Augur: Internet-wide detection of connectivity disruptions."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958591.pdf?casa_token=n-g2ssPHoEUAAAAA:nmDiQAfzmr63M1F2lQvCrZpsmBY8_Jz9FqOg-X4vTLu9SHJlRjLegCcs0MVs5uKNu49jBowAKA)
 * Syta, Ewa, Philipp Jovanovic, Eleftherios Kokoris Kogias, Nicolas Gailly, Linus Gasser, Ismail Khoffi, Michael J. Fischer, and Bryan Ford. ["Scalable bias-resistant distributed randomness."](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958592.pdf?casa_token=5KEovzzgR1YAAAAA:pFKRBDEPsb0h4yA3bpwUedEtsqD8Ntt7IPcjHkyiUMSRYp3Fc2QklAIRbgkCQmvzAvpluLKDxg)
+
+
+
+## 5. AsiaCCS
+### 2023 Accepted Papers 
+* Esgin, Muhammed F., Oguzhan Ersoy, Veronika Kuchta, Julian Loss, Amin Sakzad, Ron Steinfeld, Xiangwen Yang, and Raymond K. Zhao. ["A New Look at Blockchain Leader Election: Simple, Efficient, Sustainable and Post-Quantum."](https://eprint.iacr.org/2022/993.pdf)
+  
+### 2022 Accepted Papers 
+* Sharma, Vishal, Pawel Szalachowski, and Jianying Zhou. ["Evaluating blockchain protocols with abusive modeling."](https://dl.acm.org/doi/pdf/10.1145/3488932.3497757?casa_token=L-Ob0xDeax0AAAAA:_PHW4Gfcf27UNRKwJIfOJP59vRox7PdC-b0Hv2BwY3q378uiadvbDZaHo0q2_eteAPihddU_BjzNIg)
+* Wang, Qin, Rujia Li, Qi Wang, Shiping Chen, and Yang Xiang. ["Exploring unfairness on proof of authority: Order manipulation attacks and remedies."](https://dl.acm.org/doi/pdf/10.1145/3488932.3517394?casa_token=gGpNR4i_ACcAAAAA:WQ5CZs_fkc5WAAs0gxklv-Gvi57D7blHv_BgkBc97WqWHnvPvQx5LuqimyzyLya0zdQkhwxBSV8X9A)
+* Sui, Zhimei, Joseph K. Liu, Jiangshan Yu, Man Ho Au, and Jia Liu. ["AuxChannel: Enabling efficient bi-directional channel for scriptless blockchains."](https://dl.acm.org/doi/pdf/10.1145/3488932.3524126?casa_token=8Re5qKF8_MMAAAAA:joSiv_kJVPxi7Qllara8za70r83n-qyVs4Jw_N8zNZkiSwXqgEGiwGI28QqgzBryUaANNoeanQ8hPA)
+* Heimbach, Lioba, and Roger Wattenhofer. ["Eliminating sandwich attacks with the help of game theory."](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390?casa_token=gUIlVxS1LikAAAAA:BPwTnzCPFClM40zNWAFFjSP_GgkGneJQODdu3k87MQBEpkknwO-o6SaT4OM1590j58RnOXjHgYAFTA)
+* Ranchal-Pedrosa, Alejandro, and Vincent Gramoli. ["Trap: The bait of rational players to solve Byzantine consensus."](https://dl.acm.org/doi/pdf/10.1145/3488932.3517386?casa_token=sP336ZvmIqAAAAAA:Ibxo2Dd-quhH_n2hGAyAnlom4uJr0j8WhWUNNweRNBXDYJvIfUjHPstL2T2jIOXDex-7o23jDPXt_A)
+
+### 2021 Accepted Papers 
+* Ivanov, Nikolay, Jianzhi Lou, Ting Chen, Jin Li, and Qiben Yan. ["Targeting the weakest link: Social engineering attacks in ethereum smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3433210.3453085)
+* Kushwah, Shivendra, Ankush Desai, Pramod Subramanyan, and Sanjit A. Seshia. ["PSec: programming secure distributed systems using enclaves."](https://dl.acm.org/doi/pdf/10.1145/3433210.3453113)
+* Han, Runchao, Zhimei Sui, Jiangshan Yu, Joseph Liu, and Shiping Chen. ["Fact and fiction: Challenging the honest majority assumption of permissionless blockchains."](https://dl.acm.org/doi/pdf/10.1145/3433210.3453087?casa_token=35D7k0XPwDgAAAAA:eGYEfk0bMq6eqLNz5wvLFliXAbjJJ7pgigS9v9PO7wamiPSstATnho05P0r479pwXmIy6Ban6WWoXw)
+* Qiao, Yan, Kui Wu, and Majid Khabbazian. ["Non-intrusive and high-efficient balance tomography in the lightning network."](https://dl.acm.org/doi/pdf/10.1145/3433210.3453089?casa_token=en6bXru1Hn4AAAAA:e9JFapPYlegHTDRKgqpjR_qIyNjz8Sj-gGk_gmZv7lP5rJAWd2jJ9gBTNlGBqxARG_bvkwPqVqbrzw)
+* Jia, Yanxue, Shi-Feng Sun, Yi Zhang, Zhiqiang Liu, and Dawu Gu. ["Redactable blockchain supporting supervision and self-management."](https://dl.acm.org/doi/pdf/10.1145/3433210.3453091?casa_token=r-7gWNF1-CQAAAAA:L1hoQN6h36nOZ1GtItvAhwV-W9DqWoKSm8rBlcz-jFM0nlXDY_4YNTko0zmuOgDOXTZaghT9nHOE5A)
+* Li, Yannan, Willy Susilo, Guomin Yang, Yong Yu, Tran Viet Xuan Phuong, and Dongxi Liu. ["Non-equivocation in blockchain: double-authentication-preventing signatures gone contractual."](https://dl.acm.org/doi/pdf/10.1145/3433210.3437516?casa_token=Ypd7whz_u04AAAAA:bnzlXSGQrNqFwPIJGLtlPVt_57aJDHhRJD81UFjH8LStgmfkM_DwnO6RwLG2d187DhJudh6FqsqX3Q)
+
+### 2020 Accepted Papers 
+* Liu, Bowen, Pawel Szalachowski, and Siwei Sun. ["Fail-safe watchtowers and short-lived assertions for payment channels."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384716?casa_token=0W89GaCRc3kAAAAA:U6Uu1f5MxxexxEsQNaFIj59Fx96r6b62lHxND1RWcgkLEx7e6gyt0wIRNN_sAuR3IgQpexTG8Tfylg) 
+* Boshmaf, Yazan, Charitha Elvitigala, Husam Al Jawaheri, Primal Wijesekera, and Mashael Al Sabah. ["Investigating MMM Ponzi scheme on bitcoin."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384719?casa_token=qlhVZSVt1ewAAAAA:NARhDNKEfh4Jmkaio0aRqwjn9tbCI3ypm7PydiIyD0UxYp6LhR0VviWmFHUCkztrz7iz2Q9FiyDOYg)
+* Matzutt, Roman, Jan Pennekamp, Erik Buchholz, and Klaus Wehrle. ["Utilizing public blockchains for the sybil-resistant bootstrapping of distributed anonymity services."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384729?casa_token=ydnANfAndpwAAAAA:AeClplykXeDDqXPZQT_yJIcEHR7-o7syrG8J_WT5zVJ7PojdysuyraTmhGyziVqNIMBNJb6wZUSKiw)
+* Eckey, Lisa, Sebastian Faust, and Benjamin Schlosser. ["Optiswap: Fast optimistic fair exchange."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384749?casa_token=kfdL3_E2d5YAAAAA:5HQHPgXmOMZjfNeB37ENkpsfI6h2v987l1CUxWi7VgQ35Y8frDw0duzrYGfLRrvP-i9mVQ8fixoHvQ)
+* Blass, Erik-Oliver, and Florian Kerschbaum. ["Borealis: Building block for sealed bid auctions on blockchains."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384752?casa_token=3ni9P4O8SVcAAAAA:BCXXaEIc1oha3dmmRkRftrDZf0LYIsBvy7z_qWj-l-nLA1eM3cxNfHA27f-UFWwAurUW6nR9ztu_KQ)
+* Yu, Feifan, Na Ruan, and Siyuan Cheng. ["Rational Manager in Bitcoin Mining Pool: Dynamic Strategies to Gain Extra Rewards."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384754?casa_token=ZyF8iTOBs5cAAAAA:cfLAcIHQgYd4ZW0Q5ZjW5OC_eJ7C6VwPw9FmUjE-Ewl9ymBeK8F2i4WPs-NJPzjcOS5SjRmpQEyKtQ) 
+* Ferreira Torres, Christof, Mathis Baden, Robert Norvill, Beltran Borja Fiz Pontiveros, Hugo Jonker, and Sjouke Mauw. ["Ægis: Shielding vulnerable smart contracts against attacks."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384756?casa_token=INt2CsMKo_oAAAAA:v3iq136RqQ44IQGDFLSECesDn5TGvfUVpU6wldcT-IZHOIP7YianKzOw4TQvisPhacuRbj8Us830gw)
+
