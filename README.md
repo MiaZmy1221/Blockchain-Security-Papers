@@ -28,7 +28,11 @@
 * So, Sunbeom, Seongjoon Hong, and Hakjoo Oh. ["{SmarTest}: Effectively hunting vulnerable transaction sequences in smart contracts through language {Model-Guided} symbolic execution."](https://www.usenix.org/conference/usenixsecurity21/presentation/so)
 
 ### 2020 Accepted Papers 
-* 
+* Kalodner, Harry, Malte Möser, Kevin Lee, Steven Goldfeder, Martin Plattner, Alishah Chator, and Arvind Narayanan. ["{BlockSci}: Design and applications of a blockchain analysis platform."](https://www.usenix.org/system/files/sec20-kalodner.pdf)
+* Tramèr, Florian, Dan Boneh, and Kenny Paterson. ["Remote {Side-Channel} Attacks on Anonymous Transactions."](https://www.usenix.org/system/files/sec20-tramer.pdf)
+* Frank, Joel, Cornelius Aschermann, and Thorsten Holz. ["{ETHBMC}: A bounded model checker for smart contracts."](https://www.usenix.org/conference/usenixsecurity20/presentation/frank)
+* Zhang, Mengya, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. ["{TXSPECTOR}: Uncovering attacks in ethereum from transactions."](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-mengya)
+* Zhou, Shunfan, Malte Möser, Zhemin Yang, Ben Adida, Thorsten Holz, Jie Xiang, Steven Goldfeder et al. ["An ever-evolving game: Evaluation of real-world attacks and defenses in ethereum ecosystem."](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-shunfan)
 
 
 
