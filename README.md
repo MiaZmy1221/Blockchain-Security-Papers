@@ -44,6 +44,15 @@
 ### 2023 Accepted Papers (2 Cycles)
 * Not published yet
 
+### 2022 Accepted Papers (2 Cycles)
+* Coretti, Sandro, Aggelos Kiayias, Cristopher Moore, and Alexander Russell. ["The Generals' Scuttlebutt: Byzantine-Resilient Gossip Protocols."](https://dl.acm.org/doi/pdf/10.1145/3548606.3560638)
+* Kiayias, Aggelos, Markulf Kohlweiss, and Amirreza Sarencheh. ["Peredi: Privacy-enhanced, regulated and distributed central bank digital currencies."](https://dl.acm.org/doi/pdf/10.1145/3548606.3560707)
+* Glaeser, Noemi, Matteo Maffei, Giulio Malavolta, Pedro Moreno-Sanchez, Erkan Tairi, and Sri Aravinda Krishnan Thyagarajan. ["Foundations of coin mixing services."](https://dl.acm.org/doi/pdf/10.1145/3548606.3560637?casa_token=QNHDXJ7gNUIAAAAA:HHYvwXKktxZY1OF5W9SidvrVMwEtzlXYhhozhrvUvzt2USh521vZFc0gI2unul_O2H7nmofBEqa4ww)
+* Baird, Leemon, Pratyay Mukherjee, and Rohit Sinha. ["i-TiRE: Incremental Timed-Release Encryption or How to use Timed-Release Encryption on Blockchains?."](https://dl.acm.org/doi/pdf/10.1145/3548606.3560704?casa_token=n73iVwan75AAAAAA:mmF7ljV-JPdGQoCCWfjLmknhwkeiPAcnQvdwxw84GbeQQRrI-ki-dtxM_shnbiJOoWhNZLLPZsXWyg)
+* Liu, Yulin, Yuxuan Lu, Kartik Nayak, Fan Zhang, Luyao Zhang, and Yinhong Zhao. ["Empirical analysis of eip-1559: Transaction fees, waiting times, and consensus security."](https://dl.acm.org/doi/pdf/10.1145/3548606.3559341)
+* Das, Dipanjan, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, and Giovanni Vigna. ["Understanding security issues in the NFT ecosystem."](https://dl.acm.org/doi/pdf/10.1145/3548606.3559342)
+* Lu, Yuan, Zhenliang Lu, and Qiang Tang. ["Bolt-dumbo transformer: Asynchronous consensus as fast as the pipelined bft."](https://dl.acm.org/doi/pdf/10.1145/3548606.3559346?casa_token=UZNU8YyrW70AAAAA:KCPcCrgfqlIZKTzEbQCDqOC-NZgMtk4YsvoI8kIbOowlfT9LbZoApGdf9gJJHmnTgE0V_UOlUIn5Dg)
+
 
 
 ## 4.S&P
