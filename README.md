@@ -34,7 +34,16 @@
 * Zhang, Mengya, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. ["{TXSPECTOR}: Uncovering attacks in ethereum from transactions."](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-mengya)
 * Zhou, Shunfan, Malte Möser, Zhemin Yang, Ben Adida, Thorsten Holz, Jie Xiang, Steven Goldfeder et al. ["An ever-evolving game: Evaluation of real-world attacks and defenses in ethereum ecosystem."](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-shunfan)
 
+### 2019 Accepted Papers 
+* Matetic, Sinisa, Karl Wüst, Moritz Schneider, Kari Kostiainen, Ghassan Karame, and Srdjan Capkun. ["{BITE}: Bitcoin lightweight client privacy using trusted execution."](https://www.usenix.org/conference/usenixsecurity19/presentation/matetic)
+* Das, Poulami, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. ["{FastKitten}: Practical smart contracts on bitcoin."](https://www.usenix.org/conference/usenixsecurity19/presentation/das)
+* Szalachowski, Pawel, Daniël Reijsbergen, Ivan Homoliak, and Siwei Sun. ["{StrongChain}: Transparent and Collaborative {Proof-of-Work} Consensus."](https://www.usenix.org/system/files/sec19-szalachowski.pdf)
+* Yousaf, Haaroon, George Kappos, and Sarah Meiklejohn. ["Tracing transactions across cryptocurrency ledgers."](https://www.usenix.org/conference/usenixsecurity19/presentation/yousaf)
+* Torres, Christof Ferreira, and Mathis Steichen. ["The art of the scam: Demystifying honeypots in ethereum smart contracts."](https://www.usenix.org/system/files/sec19-torres.pdf)
+* Xu, Jiahua, and Benjamin Livshits. ["The anatomy of a cryptocurrency {Pump-and-Dump} scheme."](https://www.usenix.org/system/files/sec19-xu-jiahua_0.pdf)
+* Bijmans, Hugo LJ, Tim M. Booij, and Christian Doerr. ["Inadvertently making cyber criminals rich: A comprehensive study of cryptojacking campaigns at internet scale."](https://www.usenix.org/system/files/sec19-bijmans.pdf)
 
+  
 
 ## 2.NDSS (2 Cycles)
 ### 2023 Accepted Papers 
@@ -67,6 +76,9 @@
 * Ekparinya, Parinya, Vincent Gramoli, and Guillaume Jourjon. ["The attack of the clones against proof-of-authority."](https://www.ndss-symposium.org/ndss-paper/the-attack-of-the-clones-against-proof-of-authority/)
 * Perez, Daniel, and Benjamin Livshits. ["Broken metre: Attacking resource metering in EVM."](https://www.ndss-symposium.org/ndss-paper/broken-metre-attacking-resource-metering-in-evm/)
 * Arun, Venkat, Aniket Kate, Deepak Garg, Peter Druschel, and Bobby Bhattacharjee. ["Finding safety in numbers with secure allegation escrows."](https://www.ndss-symposium.org/ndss-paper/finding-safety-in-numbers-with-secure-allegation-escrows/)
+
+### 2019 Accepted Papers 
+* 
 
   
 
