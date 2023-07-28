@@ -70,6 +70,21 @@
 * Das, Dipanjan, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, and Giovanni Vigna. ["Understanding security issues in the NFT ecosystem."](https://dl.acm.org/doi/pdf/10.1145/3548606.3559342)
 * Lu, Yuan, Zhenliang Lu, and Qiang Tang. ["Bolt-dumbo transformer: Asynchronous consensus as fast as the pipelined bft."](https://dl.acm.org/doi/pdf/10.1145/3548606.3559346?casa_token=UZNU8YyrW70AAAAA:KCPcCrgfqlIZKTzEbQCDqOC-NZgMtk4YsvoI8kIbOowlfT9LbZoApGdf9gJJHmnTgE0V_UOlUIn5Dg)
 
+### 2021 Accepted Papers (2 Cycles)
+* Saad, Muhammad, Afsah Anwar, Srivatsan Ravi, and David Mohaisen. ["Revisiting nakamoto consensus in asynchronous networks: A comprehensive analysis of bitcoin safety and chainquality."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484561?casa_token=BHxKCUOmQw4AAAAA:fom9fAcb_-48bLI_CIfHIWflgrSjfiYft9Q_1rtxwAcih4RE6D3nGqMczm1x4lpBF5L7WyuA5vDu2Q)
+* Lewis-Pye, Andrew, and Tim Roughgarden. ["How does blockchain security dictate blockchain implementation?."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484752?casa_token=pZCLy6bsFeMAAAAA:59RwFpSAwqXbctU96tVtU-JMak_7zmoSzQxrjEUOzEcYMQGNtR4z-POmTxp2v2TIyMEFaRuM1tSMqA)
+* Das, Poulami, Andreas Erwig, Sebastian Faust, Julian Loss, and Siavash Riahi. ["The exact security of BIP32 wallets."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484807?casa_token=w-x35N8CHzMAAAAA:JTyBnl7JXZuHpbCGennvFc1-IR-UzgHWz_8qe7GG_fkIDBLuUZ_FMDv77tvmvHfXQHiaAQpADOOgQA)
+* Graf, Mike, Daniel Rausch, Viktoria Ronge, Christoph Egger, Ralf Küsters, and Dominique Schröder. ["A security framework for distributed ledgers."](https://dl.acm.org/doi/pdf/10.1145/3460120.3485362?casa_token=nnaTQb6uQ-4AAAAA:nlMvgbqRceZBU1X1m8PJbqGJLSWWYddxZCYXckFRNcSYUiQyfUaeGh6pocjlfPm11X6QOnVl0fg9Zg)
+* Li, Kai, Yibo Wang, and Yuzhe Tang. ["Deter: Denial of ethereum txpool services."](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369)
+* Saad, Muhammad, Songqing Chen, and David Mohaisen. ["Syncattack: Double-spending in bitcoin without mining power."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484568)
+* Momose, Atsuki, and Ling Ren. ["Multi-threshold byzantine fault tolerance."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484554?casa_token=1DQR4K_t0AEAAAAA:f1cBKYJ4diNu9PleyX68qy2ha93cW_XL6BxOKFNOE4HT5NX6123Zo81SKwJT9ZZQ2pslagMtqet-sw)
+* Wang, Xuechao, Viswa Virinchi Muppirala, Lei Yang, Sreeram Kannan, and Pramod Viswanath. ["Securing parallel-chain protocols under variable mining power."](https://dl.acm.org/doi/pdf/10.1145/3460120.3485254)
+* Sheng, Peiyao, Gerui Wang, Kartik Nayak, Sreeram Kannan, and Pramod Viswanath. ["BFT protocol forensics."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484566)
+* Thyagarajan, Sri Aravinda Krishnan, Tiantian Gong, Adithya Bhat, Aniket Kate, and Dominique Schröder. ["Opensquare: Decentralized repeated modular squaring service."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484809?casa_token=bjfWcG7KOK0AAAAA:yJYUB0s6tEWXOXR-Ji-mLII6KUYur7sC36XSA4m-k7q4htbud3kOF3kXt-8Z6G5CRINWZIukqzew5g)
+* Ji, Yan, and Konstantinos Chalkias. ["Generalized proof of liabilities."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484802?casa_token=m6VIvIuDRB0AAAAA:U-UqD_96tUC_iTWj3bg4V6ba9see5XBfh-fkTe5yZPzFYIvBI4_oRaNp9lTrt2JrpM8Ud7dMk4e-ZQ)
+* Kiayias, Aggelos, Nikos Leonardos, and Dionysis Zindros. ["Mining in logarithmic space."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484784)
+* Bhat, Adithya, Nibesh Shrestha, Zhongtang Luo, Aniket Kate, and Kartik Nayak. ["Randpiper–reconfiguration-friendly random beacons with quadratic communication."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484574)
+
 
 
 ## 4.S&P
@@ -96,3 +111,5 @@
 * Thyagarajan, Sri AravindaKrishnan, Giulio Malavolta, and Pedro Moreno-Sanchez. ["Universal atomic swaps: Secure exchange of coins across all blockchains."](https://ieeexplore.ieee.org/document/9833731)
 * Duan, Sisi, and Haibin Zhang. ["Foundations of dynamic BFT."](https://ieeexplore.ieee.org/document/9833787)
 * Vassantlal, Robin, Eduardo Alchieri, Bernardo Ferreira, and Alysson Bessani. ["Cobra: Dynamic proactive secret sharing for confidential bft services."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833658.pdf?casa_token=dG7yoC7FOHIAAAAA:HLe46ZY9uh_STHFhoYlCtdMtOynzgmGmjjw60mUd6CVyoSasSlcSPnM4ySENLk5tApA3oRaCUA)
+
+### 2021 Accepted Papers (2 Cycles)
