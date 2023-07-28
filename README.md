@@ -118,12 +118,26 @@
 * Ji, Yan, and Konstantinos Chalkias. ["Generalized proof of liabilities."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484802?casa_token=m6VIvIuDRB0AAAAA:U-UqD_96tUC_iTWj3bg4V6ba9see5XBfh-fkTe5yZPzFYIvBI4_oRaNp9lTrt2JrpM8Ud7dMk4e-ZQ)
 * Kiayias, Aggelos, Nikos Leonardos, and Dionysis Zindros. ["Mining in logarithmic space."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484784)
 * Bhat, Adithya, Nibesh Shrestha, Zhongtang Luo, Aniket Kate, and Kartik Nayak. ["Randpiper–reconfiguration-friendly random beacons with quadratic communication."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484574)
+
 ### 2020 Accepted Papers
 * Wüst, Karl, Sinisa Matetic, Silvan Egli, Kari Kostiainen, and Srdjan Capkun. ["ACE: Asynchronous and concurrent execution of complex smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243)
 * Mirkin, Michael, Yan Ji, Jonathan Pang, Ariah Klages-Mundt, Ittay Eyal, and Ari Juels. ["BDoS: Blockchain denial-of-service."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417247?casa_token=AAGAX0gg-U4AAAAA:RL3yCAnHl0aEtWwbgyozrvw7edQxuxkean8spkYu76_u5r0Rpj1w3a8jeyjDIWO7HVstbn24kl_AXQ)
 * Schneidewind, Clara, Ilya Grishchenko, Markus Scherer, and Matteo Maffei. ["ethor: Practical and provably sound static analysis of ethereum smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250?casa_token=dXWaG4A-NqkAAAAA:IKhgd6VUK6Gt22KlUygfbV1Wy23PB6HVQEmei8mvGxEX91jBsQoIFKssd3XYgWlVh3v5N2tIkwuA1g)
 * Nguyen, Ky, Miguel Ambrona, and Masayuki Abe. ["WI is almost enough: Contingent payment all over again."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417888)
 
+### 2019 Accepted Papers
+* Liu, Zhuotao, Yangxi Xiang, Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, and Yih-Chun Hu. ["Hyperservice: Interoperability and programmability across heterogeneous blockchains."](https://dl.acm.org/doi/pdf/10.1145/3319535.3355503)
+* Esgin, Muhammed F., Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, and Dongxi Liu. ["MatRiCT: efficient, scalable and post-quantum blockchain confidential transactions protocol."](https://dl.acm.org/doi/pdf/10.1145/3319535.3354200?casa_token=Wx7U6yXNndUAAAAA:Adds_6c6AEdRgLQJvUsQ7Ju816nluIff-8WHCdtNigx24uCuSCTNyf7S-t-aK7R-oV8bmgcm82xMjQ)
+* Bagaria, Vivek, Sreeram Kannan, David Tse, Giulia Fanti, and Pramod Viswanath. ["Prism: Deconstructing the blockchain to approach physical limits."](https://dl.acm.org/doi/pdf/10.1145/3319535.3363213)
+* Egger, Christoph, Pedro Moreno-Sanchez, and Matteo Maffei. ["Atomic multi-channel updates with constant collateral in bitcoin-compatible payment-channel networks."](https://dl.acm.org/doi/pdf/10.1145/3319535.3345666?casa_token=6k0hcEZxm78AAAAA:Sjwr8xYUfr3fvYMPsUICM4Igh_T7lSMlbsmYxRMLCOOCeNe4CPzr-6ej7O2XEfaIJ6ZRXQewuxtp0A)
+* Naumenko, Gleb, Gregory Maxwell, Pieter Wuille, Alexandra Fedorova, and Ivan Beschastnikh. ["Erlay: Efficient transaction relay for bitcoin."](https://dl.acm.org/doi/pdf/10.1145/3319535.3354237?casa_token=GSYGvqt1G5UAAAAA:GQ_ZQqQeBaUoaVnkBQBRsfIHRATwcuATFc7UUbVA2mqo9MW-_-BTDU0yt81I1DdjvHuIAMTmxgYULA)
+* Gao, Shang, Zecheng Li, Zhe Peng, and Bin Xiao. ["Power adjusting and bribery racing: Novel mining attacks in the bitcoin system."](https://dl.acm.org/doi/pdf/10.1145/3319535.3354203?casa_token=Vi2D0JXn_lwAAAAA:tLuXsO1zMoVHss0FHwj7BMnwhBxris5QheW230exnE-F4GSS1J1gWWxpU0mTYz7PWwcgd_Dz_lH9Pw)
+* Harz, Dominik, Lewis Gudgeon, Arthur Gervais, and William J. Knottenbelt. ["Balance: Dynamic adjustment of cryptocurrency deposits."](https://dl.acm.org/doi/pdf/10.1145/3319535.3354221)
+* Chen, Ting, Yufei Zhang, Zihao Li, Xiapu Luo, Ting Wang, Rong Cao, Xiuzhuo Xiao, and Xiaosong Zhang. ["Tokenscope: Automatically detecting inconsistent behaviors of cryptocurrency tokens in ethereum."](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664)
+* Bentov, Iddo, Yan Ji, Fan Zhang, Lorenz Breidenbach, Philip Daian, and Ari Juels. ["Tesseract: Real-time cryptocurrency exchange using trusted hardware."](https://dl.acm.org/doi/pdf/10.1145/3319535.3363221)
+* Steffen, Samuel, Benjamin Bichsel, Mario Gersbach, Noa Melchior, Petar Tsankov, and Martin Vechev. ["zkay: Specifying and enforcing data privacy in smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222?casa_token=ex1JjTncujEAAAAA:ZnxAykCPdKRxPLLPvt71iINJI9HGPbj2-6_t4ne-4y9kdjs1wsOtm0r_TdG2ZD2wXKy9a_3jNY43qQ)
+* Biryukov, Alex, Daniel Feher, and Giuseppe Vitto. ["Privacy aspects and subliminal channels in zcash."](https://dl.acm.org/doi/pdf/10.1145/3319535.3345663?casa_token=vSRiccM3K3UAAAAA:bPpu_eOh4Lx5t0Iiw8h-8_rPvE5bYAvxgk-CBZcUT016FEpHAcvs3M9jQKCUdQsp5oinBhquyn-iQw)
+  
 
 
 ## 4.S&P (2 Cycles)
@@ -156,6 +170,7 @@
 * Nguyen, Tai D., Long H. Pham, and Jun Sun. ["SGUARD: towards fixing vulnerable smart contracts automatically."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519444.pdf?casa_token=9xmigOfwYlgAAAAA:JmxKBLmQkQDSG3DV4Qt__P69FVsyJtlir_Z0VQAW75l8cYWtYR42aEkbWABZSINN4LpvSPtKJg)
 * Tsabary, Itay, Matan Yechieli, Alex Manuskin, and Ittay Eyal. ["MAD-HTLC: because HTLC is crazy-cheap to attack."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519476.pdf?casa_token=U4c0NTGjQuMAAAAA:1b4w8oIZHgN6Sp139mcM8iQLoC8Csb8FJ7inMLy2aRyoLs-cc5Po2uZHldS54B-C1jowTrwbQQ)
 * Cecchetti, Ethan, Siqiu Yao, Haobin Ni, and Andrew C. Myers. ["Compositional security for reentrant applications."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519436.pdf?casa_token=EVNrZcO1C2oAAAAA:iCGaTyuU7CIwcrvyKRmiJv2Hz_aqhv7c3qzH3LRofJ1IbH7YY8tToGQv0PRrQrNxcnGNspwDFg)
+
 ### 2020 Accepted Papers
 * Schindler, Philipp, Aljosha Judmayer, Nicholas Stifter, and Edgar Weippl. ["Hydrand: Efficient continuous distributed randomness."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152802.pdf?casa_token=AHcRGLUJGpIAAAAA:kuKeY4DFB54lZD8WqJls8AOarY-Q03-LYAWPPEWNbOKCv4WMRW1hyFzQEsKRqQh7SMEUhXYb9g)
 * Yu, Haifeng, Ivica Nikolić, Ruomu Hou, and Prateek Saxena. ["Ohie: Blockchain scaling made simple."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152798.pdf?casa_token=FUlKxGgWtUcAAAAA:jq-eNrISTFk1baRmeOV9ly_1bBr5EL0zpCt0rodeLboVOuL9CGzm764DDwrhTK7uJ28RNL_GMQ)
@@ -165,3 +180,11 @@
 * Daian, Philip, Steven Goldfeder, Tyler Kell, Yunqi Li, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, and Ari Juels. ["Flash boys 2.0: Frontrunning in decentralized exchanges, miner extractable value, and consensus instability."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152675.pdf?casa_token=aO4VeMsAEHYAAAAA:aR2oXZaGkrQUnXb6eCttKS7GmUEnph8G4SSfk1ZGNEsqHCkhOmtNubpcsGRseXfUi09S0yrK1g)
 * Luu, L., Benedikt Bünz, and M. Zamani. ["Flyclient super light client for cryptocurrencies."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152680.pdf?casa_token=pBjcjJD2RGIAAAAA:gMqf_3DVphcyQoWZ-PRYFXxMLbppmnkwYuW6T2ABy0Zb-CGGIO_D777Esj4pKe5pq-z294DuIw)
 * Bowe, Sean, Alessandro Chiesa, Matthew Green, Ian Miers, Pratyush Mishra, and Howard Wu. ["Zexe: Enabling decentralized private computation."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152634.pdf?casa_token=hYWf7_ECQdkAAAAA:3Yno3GM7OWylAbro9YvYjd1oen_5mpwmJkYnpsWJKEFILFxv9TafvsHS4YbUUvsZEPO7cozpxg) 
+
+### 2019 Accepted Papers
+* Dziembowski, Stefan, Lisa Eckey, Sebastian Faust, and Daniel Malinowski. ["Perun: Virtual payment hubs over cryptocurrencies."](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835315.pdf?casa_token=xabLRh_70rEAAAAA:xRJ1N4jJx2-M3h9CocFjGnY4YWfUuAYV4oKHqaFwBKW9huawmLhjKwebImkmX7Y-B0Mqe70l1g)
+* Deuber, Dominic, Bernardo Magri, and Sri Aravinda Krishnan Thyagarajan. ["Redactable blockchain in the permissionless setting."](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835372.pdf?casa_token=UkETI0ei0J0AAAAA:lvg_b5PB7mcPigwWZCsscP_OwEaF6z7VBl_W-HWZLNTOCDkkgWmKvm7s7ISd1l7TCgZ9YeFO_A)
+* Gaži, Peter, Aggelos Kiayias, and Dionysis Zindros. ["Proof-of-stake sidechains."](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835275.pdf?casa_token=Cj1LJw6oFIcAAAAA:wK3qVdYCpwtXIym2h4g-hMuNrwswrXejJNCqwANtK8p0lL0vBJt4lJ_bX1kuLzbilTTQBFMVKg)
+* Kerber, Thomas, Aggelos Kiayias, Markulf Kohlweiss, and Vassilis Zikas. ["Ouroboros crypsinous: Privacy-preserving proof-of-stake."](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835272.pdf?casa_token=FUooX4-NdBoAAAAA:4THGyvsCJ-7bHyczuEJLuNx9_x0HlZtRsT8sS7v4gqBv0JwOOShKx4PCaZw-6x9oYZdJ6DLHxA)
+* Zhang, Ren, and Bart Preneel. ["Lay down the common metrics: Evaluating proof-of-work consensus protocols' security."](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835227.pdf?casa_token=Zx5ev4YXd-QAAAAA:tgnfzqTkrtfYCEcML7lYkMbGsaFBL1hNX5nrAcZgkb0l-oyf9djx68ur_RiWO3LqWqAo-RBgZA)
+* Zamyatin, Alexei, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervais, and William Knottenbelt. ["Xclaim: Trustless, interoperable, cryptocurrency-backed assets."](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835387.pdf?casa_token=EHyd9rNzUlYAAAAA:fQXQuD9LOuZV240Nc5db6BkJynF_hip9IP5-7C7vBl7xhERUQ6vGm4caZWCpT9-btUpIHt5xYQ)
