@@ -2,6 +2,9 @@
 
 
 ## 1. Usenix
+### 2024 Accepted Papers (3 Cycles)
+coming soon
+
 ### 2023 Accepted Papers (3 Cycles)
 * McLaughlin, Robert, Christopher Kruegel, and Giovanni Vigna. ["A Large Scale Study of the Ethereum Arbitrage Ecosystem."](https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin) 
 * Park, Sangdon, Osbert Bastani, and Taesoo Kim. "ACon $^ 2$: ["Adaptive Conformal Consensus for Provable Blockchain Oracles."](https://www.usenix.org/conference/usenixsecurity23/presentation/park)
@@ -18,6 +21,7 @@
 
 ## 2.NDSS
 ### 2024 Accepted Papers (2 Cycles)
+coming soon
 
 ### 2023 Accepted Papers (2 Cycles)
 * Frassetto, Tommaso, Patrick Jauernig, David Koisser, David Kretzler, Benjamin Schlosser, Sebastian Faust, and Ahmad-Reza Sadeghi. ["POSE: Practical off-chain smart contract execution."](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/)
