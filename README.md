@@ -1,5 +1,5 @@
 # Blockchain-Security-Papers
-
+This repository is a comprehensive collection of academic papers accepted and presented at both top-tier and second-tier conferences spanning from 2017 to the most recent years.
 
 ## 1. Usenix
 ### 2023 Accepted Papers 
@@ -285,4 +285,24 @@
 
 ## 6. EuroS&P
 ### 2023 Accepted Papers 
+* Tiemann, Thore, Sebastian Berndt, Thomas Eisenbarth, and Maciej Liśkiewicz. ["“Act natural!”: Exchanging Private Messages on Public Blockchains."](https://www.its.uni-luebeck.de/fileadmin/files/documents/slides_act-natural_tiemann_eurosp23.pdf)
+* Rodler, Michael, David Paaßen, Wenting Li, Lukas Bernhard, Thorsten Holz, Ghassan Karame, and Lucas Davi. ["EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation."](https://arxiv.org/pdf/2304.06341)
+* Solomon, Ravital, Rick Weber, and Ghada Almashaqbeh. ["smartfhe: Privacy-preserving smart contracts from fully homomorphic encryption."](https://eprint.iacr.org/2021/133.pdf)
+
+### 2022 Accepted Papers 
+* Almashaqbeh, Ghada, and Ravital Solomon. ["SoK: privacy-preserving computing in the blockchain era."](https://ieeexplore.ieee.org/iel7/9797336/9797337/09797340.pdf?casa_token=gUG_WrqPZiwAAAAA:YOnmU22ACw9NneJ7mHLMs8xpGv_qWUda7re7xX_aQsljjEMCg1T4DkQ8vQH1yMPgRrg2yhrjFA)
+
+### 2021 Accepted Papers 
+* Galindo, David, Jia Liu, Mihair Ordean, and Jin-Mann Wong. ["Fully distributed verifiable random functions and their application to decentralised random beacons."](https://ieeexplore.ieee.org/iel7/9581154/9581061/09581233.pdf?casa_token=6BCTd1jQVrQAAAAA:G1YlNAAleavWG9FY953A1zisq8z2yS-fAss6TU-l9EWMZT9NrErJCI9cG_hm8dX4ZdL4-jij0g)
+* Torres, Christof Ferreira, Antonio Ken Iannillo, Arthur Gervais, and Radu State. ["Confuzzius: A data dependency-aware hybrid fuzzer for smart contracts."](https://ieeexplore.ieee.org/iel7/9581154/9581061/09581164.pdf?casa_token=rhn0O3MCV1gAAAAA:9nU04XYiEVGaB97neWf1Gawhwkxss_HQpy_DIkmGc_nW9NUMuPcpu4w9m8V2aq-TjgkpDZfNFw)
+* Tekiner, Ege, Abbas Acar, A. Selcuk Uluagac, Engin Kirda, and Ali Aydin Selcuk. ["SoK: cryptojacking malware."](https://ieeexplore.ieee.org/iel7/9581154/9581061/09581251.pdf?casa_token=GKBbgZIUOtoAAAAA:CqYu2-BwVVeslmfYWoLOwHZF8NF2VvFmLRfrxMlSo_alHDjHR-n8ZcPs2cLuTTMvIWn7tizj-g)
+* Breuer, Florian, Vipul Goyal, and Giulio Malavolta. ["Cryptocurrencies with security policies and two-factor authentication."](https://ieeexplore.ieee.org/iel7/9581154/9581061/09581244.pdf?casa_token=M_kwVBjNS70AAAAA:AGL2iC1bR7BSsFykVWe4CUb3YqNsjAwXtk6SFClHkL5Cgn9zvv4RlVV7alpGzvT5su_3QqUntQ)
+
+### 2020 Accepted Papers 
 * 
+
+
+
+
+
+
