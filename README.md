@@ -15,6 +15,10 @@
 * Zhang, Zhuo, Zhiqiang Lin, Marcelo Morales, Xiangyu Zhang, Kaiyuan Zhang, and Happy Hour. ["Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract."](https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhuo-exploit)
 * Abdelaziz, Tamer, and Aquinas Hobor. ["Smart Learning to Find Dumb Contracts."](https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz)
 
+### 2022 Accepted Papers (3 Cycles)
+* Kappos, George, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, and Sarah Meiklejohn. ["How to Peel a Million: Validating and Expanding Bitcoin Clusters."](https://www.usenix.org/system/files/sec22-kappos.pdf)
+
+
 
 ## 2.NDSS
 ### 2023 Accepted Papers (2 Cycles)
@@ -28,6 +32,13 @@
 * Aumayr, Lukas, Pedro Moreno-Sanchez, Aniket Kate, and Matteo Maffei. ["Breaking and Fixing Virtual Channels: Domino Attack and Donner."](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/)
 * Wadhwa, Sarisht, Jannis Stöter, Fan Zhang, and Kartik Nayak. ["He-HTLC: Revisiting Incentives in HTLC."](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/)
 
+### 2022 Accepted Papers (2 Cycles)
+* Wang, Huibo, Guoxing Chen, Yinqian Zhang, and Zhiqiang Lin. ["Multi-certificate attacks against proof-of-elapsed-time and their countermeasures."](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=Multi-Certificate+Attacks+against+Proof-of-Elapsed-Time+and+Their+Countermeasures&btnG=)
+* Ge, Zhonghui, Yi Zhang, Yu Long, and Dawu Gu. ["Shaduf: Non-cycle payment channel rebalancing."](https://www.ndss-symposium.org/ndss-paper/auto-draft-254/)
+* Zhang, Ren, Dingwei Zhang, Quake Wang, Shichen Wu, Jan Xie, and Bart Preneel. ["Nc-max: Breaking the security-performance tradeoff in nakamoto consensus."](https://eprint.iacr.org/2020/1101.pdf)
+* Guo, Bingyong, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, and Zhenfeng Zhang. ["Speeding dumbo: Pushing asynchronous bft closer to practice."](https://www.ndss-symposium.org/ndss-paper/auto-draft-256/)
+
+  
 
 ## 3.CCS
 ### 2023 Accepted Papers (2 Cycles)
@@ -48,3 +59,7 @@
 * Chen, Yuanliang, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, and Jiaguang Sun. ["Tyr: Finding consensus failure bugs in blockchain system with behaviour divergent model."](https://ieeexplore.ieee.org/document/10179386)
 * Zheng, Tianyu, Shang Gao, Yubo Song, and Bin Xiao. ["Leaking Arbitrarily Many Secrets: Any-out-of-Many Proofs and Applications to RingCT Protocols."](https://ieeexplore.ieee.org/iel7/10179215/10179280/10179292.pdf?casa_token=q0D-X-5OpX4AAAAA:tY9iXECgwhdf7c_4p81mnBgwc0lNn_EavpP-ic9vggPIEuEtIWb6-NgCPdAjuN24V9VCf3IAUg)
 
+
+
+### 2022 Accepted Papers (2 Cycles)
+* 
