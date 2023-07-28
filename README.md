@@ -270,3 +270,19 @@
 * Yu, Feifan, Na Ruan, and Siyuan Cheng. ["Rational Manager in Bitcoin Mining Pool: Dynamic Strategies to Gain Extra Rewards."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384754?casa_token=ZyF8iTOBs5cAAAAA:cfLAcIHQgYd4ZW0Q5ZjW5OC_eJ7C6VwPw9FmUjE-Ewl9ymBeK8F2i4WPs-NJPzjcOS5SjRmpQEyKtQ) 
 * Ferreira Torres, Christof, Mathis Baden, Robert Norvill, Beltran Borja Fiz Pontiveros, Hugo Jonker, and Sjouke Mauw. ["Ægis: Shielding vulnerable smart contracts against attacks."](https://dl.acm.org/doi/pdf/10.1145/3320269.3384756?casa_token=INt2CsMKo_oAAAAA:v3iq136RqQ44IQGDFLSECesDn5TGvfUVpU6wldcT-IZHOIP7YianKzOw4TQvisPhacuRbj8Us830gw)
 
+### 2019 Accepted Papers 
+* Herrera-Joancomartí, Jordi, Guillermo Navarro-Arribas, Alejandro Ranchal-Pedrosa, Cristina Pérez-Solà, and Joaquin Garcia-Alfaro. ["On the difficulty of hiding the balance of lightning network channels."](https://dl.acm.org/doi/pdf/10.1145/3321705.3329812?casa_token=LfIeah1pKZMAAAAA:6SG7UX0XnJ0G0QvVwg073lsLO-XKcIoxY3x-d7gl5fKa7lsjBa4qEAdMnNWLn1NJPp8VgZUZ2UBN9w)
+* Yi, Xun, and Kwok-Yan Lam. ["A new blind ECDSA scheme for bitcoin transaction anonymity."](https://dl.acm.org/doi/pdf/10.1145/3321705.3329816?casa_token=fxXRp4-I110AAAAA:7SZksqR7VzVq5ii8nC1hLyREsETAF_9W2qMlXy09epsJmxLVbJGUGCVze1nLoc591aR9iOkU070Dng)
+* Wijaya, Dimaz Ankaa, Joseph K. Liu, Ron Steinfeld, Dongxi Liu, and Jiangshan Yu. ["On the unforkability of monero."](https://asiaccs2019.github.io/papers/p621-wijayaA.pdf)
+
+### 2018 Accepted Papers 
+* N/A
+
+### 2017 Accepted Papers 
+* N/A
+
+
+
+## 6. EuroS&P
+### 2023 Accepted Papers 
+* 
