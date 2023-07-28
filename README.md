@@ -1,8 +1,8 @@
 # Blockchain-Security-Papers
 
 
-## 1. Usenix
-### 2023 Accepted Papers (3 Cycles)
+## 1. Usenix (3 Cycles)
+### 2023 Accepted Papers 
 * McLaughlin, Robert, Christopher Kruegel, and Giovanni Vigna. ["A Large Scale Study of the Ethereum Arbitrage Ecosystem."](https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin) 
 * Park, Sangdon, Osbert Bastani, and Taesoo Kim. "ACon $^ 2$: ["Adaptive Conformal Consensus for Provable Blockchain Oracles."](https://www.usenix.org/conference/usenixsecurity23/presentation/park)
 * Sun, Zhiyuan, Xiapu Luo, and Yinqian Zhang. ["Panda: Security Analysis of Algorand Smart Contracts."](https://www.usenix.org/conference/usenixsecurity23/presentation/sun)
@@ -15,10 +15,10 @@
 * Zhang, Zhuo, Zhiqiang Lin, Marcelo Morales, Xiangyu Zhang, Kaiyuan Zhang, and Happy Hour. ["Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract."](https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhuo-exploit)
 * Abdelaziz, Tamer, and Aquinas Hobor. ["Smart Learning to Find Dumb Contracts."](https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz)
 
-### 2022 Accepted Papers (3 Cycles)
+### 2022 Accepted Papers 
 * Kappos, George, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, and Sarah Meiklejohn. ["How to Peel a Million: Validating and Expanding Bitcoin Clusters."](https://www.usenix.org/system/files/sec22-kappos.pdf)
 
-### 2021 Accepted Papers (3 Cycles)
+### 2021 Accepted Papers 
 * Tran, Muoi, Akshaye Shenoi, and Min Suk Kang. ["On the {Routing-Aware} Peering against {Network-Eclipse} Attacks in Bitcoin."](https://www.usenix.org/conference/usenixsecurity21/presentation/tran)
 * He, Ningyu, Ruiyi Zhang, Haoyu Wang, Lei Wu, Xiapu Luo, Yao Guo, Ting Yu, and Xuxian Jiang. ["{EOSAFE}: security analysis of {EOSIO} smart contracts."](https://www.usenix.org/conference/usenixsecurity21/presentation/he-ningyu)
 * Rodler, Michael, Wenting Li, Ghassan O. Karame, and Lucas Davi. ["{EVMPatch}: Timely and automated patching of ethereum smart contracts."](https://www.usenix.org/conference/usenixsecurity21/presentation/rodler)
@@ -27,10 +27,13 @@
 * Torres, Christof Ferreira, and Ramiro Camino. ["Frontrunner jones and the raiders of the dark forest: An empirical study of frontrunning on the ethereum blockchain."](https://www.usenix.org/conference/usenixsecurity21/presentation/torres)
 * So, Sunbeom, Seongjoon Hong, and Hakjoo Oh. ["{SmarTest}: Effectively hunting vulnerable transaction sequences in smart contracts through language {Model-Guided} symbolic execution."](https://www.usenix.org/conference/usenixsecurity21/presentation/so)
 
+### 2020 Accepted Papers 
+* 
 
 
-## 2.NDSS
-### 2023 Accepted Papers (2 Cycles)
+
+## 2.NDSS (2 Cycles)
+### 2023 Accepted Papers 
 * Frassetto, Tommaso, Patrick Jauernig, David Koisser, David Kretzler, Benjamin Schlosser, Sebastian Faust, and Ahmad-Reza Sadeghi. ["POSE: Practical off-chain smart contract execution."](https://www.ndss-symposium.org/ndss-paper/pose-practical-off-chain-smart-contract-execution/)
 * Bhat, Adithya, Nibesh Shrestha, Aniket Kate, and Kartik Nayak. "OptRand: [Optimistically Responsive Reconfigurable Distributed Randomness."](https://www.ndss-symposium.org/ndss-paper/optrand-optimistically-responsive-reconfigurable-distributed-randomness/)
 * Heo, Hwanjo, Seungwon Woo, Taeung Yoon, Min Suk Kang, and Seungwon Shin. ["Partitioning Ethereum without Eclipsing It."](https://www.ndss-symposium.org/ndss-paper/partitioning-ethereum-without-eclipsing-it/)
@@ -41,13 +44,13 @@
 * Aumayr, Lukas, Pedro Moreno-Sanchez, Aniket Kate, and Matteo Maffei. ["Breaking and Fixing Virtual Channels: Domino Attack and Donner."](https://www.ndss-symposium.org/ndss-paper/breaking-and-fixing-virtual-channels-domino-attack-and-donner/)
 * Wadhwa, Sarisht, Jannis Stöter, Fan Zhang, and Kartik Nayak. ["He-HTLC: Revisiting Incentives in HTLC."](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/)
 
-### 2022 Accepted Papers (2 Cycles)
+### 2022 Accepted Papers 
 * Wang, Huibo, Guoxing Chen, Yinqian Zhang, and Zhiqiang Lin. ["Multi-certificate attacks against proof-of-elapsed-time and their countermeasures."](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=Multi-Certificate+Attacks+against+Proof-of-Elapsed-Time+and+Their+Countermeasures&btnG=)
 * Ge, Zhonghui, Yi Zhang, Yu Long, and Dawu Gu. ["Shaduf: Non-cycle payment channel rebalancing."](https://www.ndss-symposium.org/ndss-paper/auto-draft-254/)
 * Zhang, Ren, Dingwei Zhang, Quake Wang, Shichen Wu, Jan Xie, and Bart Preneel. ["Nc-max: Breaking the security-performance tradeoff in nakamoto consensus."](https://eprint.iacr.org/2020/1101.pdf)
 * Guo, Bingyong, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, and Zhenfeng Zhang. ["Speeding dumbo: Pushing asynchronous bft closer to practice."](https://www.ndss-symposium.org/ndss-paper/auto-draft-256/)
 
-### 2021 Accepted Papers (2 Cycles)  
+### 2021 Accepted Papers 
 * Li, Kai, Jiaqi Chen, Xianghong Liu, Yuzhe Richard Tang, XiaoFeng Wang, and Xiapu Luo. ["As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service."](https://www.ndss-symposium.org/ndss-paper/as-strong-as-its-weakest-link-how-to-break-blockchain-dapps-at-rpc-service/)
 * Schindler, Philipp, Aljosha Judmayer, Markus Hittmeir, Nicholas Stifter, and Edgar Weippl. ["Randrunner: Distributed randomness from trapdoor vdfs with strong uniqueness."](https://www.ndss-symposium.org/ndss-paper/randrunner-distributed-randomness-from-trapdoor-vdfs-with-strong-uniqueness/)
 * Reijsbergen, Daniël, Pawel Szalachowski, Junming Ke, Zengpeng Li, and Jianying Zhou. ["LaKSA: A probabilistic proof-of-stake protocol."](https://www.ndss-symposium.org/ndss-paper/laksa-a-probabilistic-proof-of-stake-protocol/)
@@ -57,11 +60,11 @@
 
   
 
-## 3.CCS
-### 2023 Accepted Papers (2 Cycles)
+## 3.CCS (2 Cycles)
+### 2023 Accepted Papers 
 * Not published yet
 
-### 2022 Accepted Papers (2 Cycles)
+### 2022 Accepted Papers
 * Coretti, Sandro, Aggelos Kiayias, Cristopher Moore, and Alexander Russell. ["The Generals' Scuttlebutt: Byzantine-Resilient Gossip Protocols."](https://dl.acm.org/doi/pdf/10.1145/3548606.3560638)
 * Kiayias, Aggelos, Markulf Kohlweiss, and Amirreza Sarencheh. ["Peredi: Privacy-enhanced, regulated and distributed central bank digital currencies."](https://dl.acm.org/doi/pdf/10.1145/3548606.3560707)
 * Glaeser, Noemi, Matteo Maffei, Giulio Malavolta, Pedro Moreno-Sanchez, Erkan Tairi, and Sri Aravinda Krishnan Thyagarajan. ["Foundations of coin mixing services."](https://dl.acm.org/doi/pdf/10.1145/3548606.3560637?casa_token=QNHDXJ7gNUIAAAAA:HHYvwXKktxZY1OF5W9SidvrVMwEtzlXYhhozhrvUvzt2USh521vZFc0gI2unul_O2H7nmofBEqa4ww)
@@ -70,7 +73,7 @@
 * Das, Dipanjan, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, and Giovanni Vigna. ["Understanding security issues in the NFT ecosystem."](https://dl.acm.org/doi/pdf/10.1145/3548606.3559342)
 * Lu, Yuan, Zhenliang Lu, and Qiang Tang. ["Bolt-dumbo transformer: Asynchronous consensus as fast as the pipelined bft."](https://dl.acm.org/doi/pdf/10.1145/3548606.3559346?casa_token=UZNU8YyrW70AAAAA:KCPcCrgfqlIZKTzEbQCDqOC-NZgMtk4YsvoI8kIbOowlfT9LbZoApGdf9gJJHmnTgE0V_UOlUIn5Dg)
 
-### 2021 Accepted Papers (2 Cycles)
+### 2021 Accepted Papers
 * Saad, Muhammad, Afsah Anwar, Srivatsan Ravi, and David Mohaisen. ["Revisiting nakamoto consensus in asynchronous networks: A comprehensive analysis of bitcoin safety and chainquality."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484561?casa_token=BHxKCUOmQw4AAAAA:fom9fAcb_-48bLI_CIfHIWflgrSjfiYft9Q_1rtxwAcih4RE6D3nGqMczm1x4lpBF5L7WyuA5vDu2Q)
 * Lewis-Pye, Andrew, and Tim Roughgarden. ["How does blockchain security dictate blockchain implementation?."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484752?casa_token=pZCLy6bsFeMAAAAA:59RwFpSAwqXbctU96tVtU-JMak_7zmoSzQxrjEUOzEcYMQGNtR4z-POmTxp2v2TIyMEFaRuM1tSMqA)
 * Das, Poulami, Andreas Erwig, Sebastian Faust, Julian Loss, and Siavash Riahi. ["The exact security of BIP32 wallets."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484807?casa_token=w-x35N8CHzMAAAAA:JTyBnl7JXZuHpbCGennvFc1-IR-UzgHWz_8qe7GG_fkIDBLuUZ_FMDv77tvmvHfXQHiaAQpADOOgQA)
@@ -87,8 +90,8 @@
 
 
 
-## 4.S&P
-### 2023 Accepted Papers (2 Cycles)
+## 4.S&P (2 Cycles)
+### 2023 Accepted Papers 
 * Choi, Kevin, Aathira Manoj, and Joseph Bonneau. ["SoK: Distributed Randomness Beacons."](https://eprint.iacr.org/2023/728.pdf)
 * Bar-Zur, Roi, Ameer Abu-Hanna, Ittay Eyal, and Aviv Tamar. ["WeRLman: to tackle whale (transactions), go deep (RL)."]([https://dl.acm.org/doi/pdf/10.1145/3534056.3535005?casa_token=U9OJzmPigncAAAAA:tsOqc-_EPq60OfWC5s_qKqNHNIiaqDuYeCutQ9ZpBBqflK67wBjVaWxNJiEWy2Sc_TjO8xvuda60Sw](https://eprint.iacr.org/2022/175.pdf)https://eprint.iacr.org/2022/175.pdf)
 * Saad, Muhammad, and David Mohaisen. ["Three birds with one stone: Efficient partitioning attacks on interdependent cryptocurrency networks."](https://ieeexplore.ieee.org/iel7/10179215/10179280/10179456.pdf?casa_token=baMgZI_2CksAAAAA:yRr9C8BmITLBtYlXeuRYzOUXuq0CiovEy9PVpzu59HLxFOGFXWOXHcCvVAh5dEQkK_SKybwa1w)
@@ -100,9 +103,7 @@
 * Chen, Yuanliang, Fuchen Ma, Yuanhang Zhou, Yu Jiang, Ting Chen, and Jiaguang Sun. ["Tyr: Finding consensus failure bugs in blockchain system with behaviour divergent model."](https://ieeexplore.ieee.org/document/10179386)
 * Zheng, Tianyu, Shang Gao, Yubo Song, and Bin Xiao. ["Leaking Arbitrarily Many Secrets: Any-out-of-Many Proofs and Applications to RingCT Protocols."](https://ieeexplore.ieee.org/iel7/10179215/10179280/10179292.pdf?casa_token=q0D-X-5OpX4AAAAA:tY9iXECgwhdf7c_4p81mnBgwc0lNn_EavpP-ic9vggPIEuEtIWb6-NgCPdAjuN24V9VCf3IAUg)
 
-
-
-### 2022 Accepted Papers (2 Cycles)
+### 2022 Accepted Papers 
 * Bose, Priyanka, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, and Giovanni Vigna. ["Sailfish: Vetting smart contract state-inconsistency bugs in seconds."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833721.pdf?casa_token=4NC7ji7zlx0AAAAA:3xXmcY9jdO0yeRy88m2dRYMUyuKTthzJkvlME7cMRJDn6dBpRe9ISCLD_OYTq1B6WebNk-LLPw)
 * Steffen, Samuel, Benjamin Bichsel, Roger Baumgartner, and Martin Vechev. ["Zeestar: Private smart contracts by homomorphic encryption and zero-knowledge proofs."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833732.pdf?casa_token=4YbuiLlCSvAAAAAA:bm4OCws7U_bzaWD051Y-6eLRY1Vbo-mgTRTRZUptzrOcB9cbrW3dVZ2020lo6SDwW55cLZZgYQ)
 * Qin, Kaihua, Liyi Zhou, and Arthur Gervais. ["Quantifying blockchain extractable value: How dark is the forest?."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833734.pdf?casa_token=UgWUZmOgIJYAAAAA:NHz6DTIIZYbVNWZBHu9my2C5yS8MiSlAGwLllDlytSB2v79Wavs-lphCsEJCoeiCBbEiREJgJQ)
@@ -112,4 +113,10 @@
 * Duan, Sisi, and Haibin Zhang. ["Foundations of dynamic BFT."](https://ieeexplore.ieee.org/document/9833787)
 * Vassantlal, Robin, Eduardo Alchieri, Bernardo Ferreira, and Alysson Bessani. ["Cobra: Dynamic proactive secret sharing for confidential bft services."](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833658.pdf?casa_token=dG7yoC7FOHIAAAAA:HLe46ZY9uh_STHFhoYlCtdMtOynzgmGmjjw60mUd6CVyoSasSlcSPnM4ySENLk5tApA3oRaCUA)
 
-### 2021 Accepted Papers (2 Cycles)
+### 2021 Accepted Papers 
+* Zhou, Liyi, Kaihua Qin, Christof Ferreira Torres, Duc V. Le, and Arthur Gervais. ["High-frequency trading on decentralized on-chain exchanges."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519421.pdf?casa_token=D8usv5oyhbMAAAAA:HmGmZB4mKsGPMXtf5pU9iCPX58MNEUCtMBPNvuSR5Za3Vwi-In7s53Xi3hF8kKm-BaDLwNln7A)
+* Neu, Joachim, Ertem Nusret Tas, and David Tse. ["Ebb-and-flow protocols: A resolution of the availability-finality dilemma."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519481.pdf?casa_token=6GcxEiNqeD0AAAAA:ttG1VVWfRt17AsmrRnUyyvV81WNp3conSzfgdXD0tpheFOhpNgN8jqS7adm-ciNxYBFRjziiGg)
+* Crain, Tyler, Christopher Natoli, and Vincent Gramoli. ["Red belly: A secure, fair and scalable open blockchain."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519440.pdf?casa_token=fWH3st6JvmcAAAAA:82lPw000fNynrRVKAUIDNQhn_YW2_qN9yTE7ciNYsRRzc4jiiDIFYkAvZiukR4iaJRPWxPuy4Q)
+* Nguyen, Tai D., Long H. Pham, and Jun Sun. ["SGUARD: towards fixing vulnerable smart contracts automatically."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519444.pdf?casa_token=9xmigOfwYlgAAAAA:JmxKBLmQkQDSG3DV4Qt__P69FVsyJtlir_Z0VQAW75l8cYWtYR42aEkbWABZSINN4LpvSPtKJg)
+* Tsabary, Itay, Matan Yechieli, Alex Manuskin, and Ittay Eyal. ["MAD-HTLC: because HTLC is crazy-cheap to attack."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519476.pdf?casa_token=U4c0NTGjQuMAAAAA:1b4w8oIZHgN6Sp139mcM8iQLoC8Csb8FJ7inMLy2aRyoLs-cc5Po2uZHldS54B-C1jowTrwbQQ)
+* Cecchetti, Ethan, Siqiu Yao, Haobin Ni, and Andrew C. Myers. ["Compositional security for reentrant applications."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519436.pdf?casa_token=EVNrZcO1C2oAAAAA:iCGaTyuU7CIwcrvyKRmiJv2Hz_aqhv7c3qzH3LRofJ1IbH7YY8tToGQv0PRrQrNxcnGNspwDFg)
