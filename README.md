@@ -78,7 +78,16 @@
 * Arun, Venkat, Aniket Kate, Deepak Garg, Peter Druschel, and Bobby Bhattacharjee. ["Finding safety in numbers with secure allegation escrows."](https://www.ndss-symposium.org/ndss-paper/finding-safety-in-numbers-with-secure-allegation-escrows/)
 
 ### 2019 Accepted Papers 
-* 
+* Apostolaki, Maria, Gian Marti, Jan Müller, and Laurent Vanbever. ["SABRE: Protecting bitcoin against routing attacks."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-1_Apostolaki_paper.pdf)
+* Zhang, Bingsheng, Roman Oliynykov, and Hamed Balogun. ["A treasury system for cryptocurrencies: Enabling better collaborative intelligence."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-2_Zhang_paper.pdf)
+* Derler, David, Kai Samelin, Daniel Slamanig, and Christoph Striecks. ["Fine-grained and controlled rewriting in blockchains: Chameleon-hashing gone attribute-based."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf)
+* Das, Sourav, Vinay Joseph Ribeiro, and Abhijeet Anand. ["Yoda: Enabling computationally intensive contracts on blockchains with byzantine and selfish nodes."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-4_Das_paper.pdf)
+* Kaptchuk, Gabriel, Ian Miers, and Matthew Green. ["Giving state to the stateless: Augmenting trustworthy computation with ledgers."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-5_Kaptchuk_paper.pdf)
+* Lee, Seunghyeon, Changhoon Yoon, Heedo Kang, Yeonkeun Kim, Yongdae Kim, Dongsu Han, Sooel Son, and Seungwon Shin. ["Cybercriminal minds: an investigative study of cryptocurrency abuses in the dark web."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-1_Lee_paper.pdf)
+* Leung, Derek, Adam Suhl, Yossi Gilad, and Nickolai Zeldovich. ["Vault: Fast bootstrapping for the algorand cryptocurrency."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-2_Leung_paper.pdf)
+* Rodler, Michael, Wenting Li, Ghassan O. Karame, and Lucas Davi. ["Sereum: Protecting existing smart contracts against re-entrancy attacks."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-3_Rodler_paper.pdf)
+* Malavolta, Giulio, Pedro Moreno-Sanchez, Clara Schneidewind, Aniket Kate, and Matteo Maffei. ["Anonymous multi-hop locks for blockchain scalability and interoperability."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf)
+* Bai, Xiaofei, Jian Gao, Chenglong Hu, and Liang Zhang. ["Constructing an Adversary Solver for Equihash."](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-5_Bai_paper.pdf)
 
   
 
