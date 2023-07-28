@@ -60,7 +60,13 @@
 * Reijsbergen, Daniël, Pawel Szalachowski, Junming Ke, Zengpeng Li, and Jianying Zhou. ["LaKSA: A probabilistic proof-of-stake protocol."](https://www.ndss-symposium.org/ndss-paper/laksa-a-probabilistic-proof-of-stake-protocol/)
 * Hou, Charlie, Mingxun Zhou, Yan Ji, Phil Daian, Florian Tramer, Giulia Fanti, and Ari Juels. ["SquirRL: Automating attack analysis on blockchain incentive mechanisms with deep reinforcement learning."](https://www.ndss-symposium.org/ndss-paper/squirrl-automating-attack-analysis-on-blockchain-incentive-mechanisms-with-deep-reinforcement-learning/)
 * Wüst, Karl, Loris Diana, Kari Kostiainen, Ghassan Karame, Sinisa Matetic, and Srdjan Capkun. ["Bitcontracts: Supporting Smart Contracts in Legacy Blockchains."](https://www.ndss-symposium.org/ndss-paper/bitcontracts-supporting-smart-contracts-in-legacy-blockchains/)
-* 
+
+### 2020 Accepted Papers 
+* Bissias, George, and Brian Neil Levine. ["Bobtail: Improved Blockchain Security with Low-Variance Mining."](https://people.cs.umass.edu/~gbiss/bobtail.pdf)
+* Mavroudis, Vasilios, Karl Wüst, Aritra Dhar, Kari Kostiainen, and Srdjan Capkun. ["Snappy: Fast on-chain payments with practical collaterals."](https://www.ndss-symposium.org/ndss-paper/snappy-fast-on-chain-payments-with-practical-collaterals/)
+* Ekparinya, Parinya, Vincent Gramoli, and Guillaume Jourjon. ["The attack of the clones against proof-of-authority."](https://www.ndss-symposium.org/ndss-paper/the-attack-of-the-clones-against-proof-of-authority/)
+* Perez, Daniel, and Benjamin Livshits. ["Broken metre: Attacking resource metering in EVM."](https://www.ndss-symposium.org/ndss-paper/broken-metre-attacking-resource-metering-in-evm/)
+* Arun, Venkat, Aniket Kate, Deepak Garg, Peter Druschel, and Bobby Bhattacharjee. ["Finding safety in numbers with secure allegation escrows."](https://www.ndss-symposium.org/ndss-paper/finding-safety-in-numbers-with-secure-allegation-escrows/)
 
   
 
@@ -91,6 +97,11 @@
 * Ji, Yan, and Konstantinos Chalkias. ["Generalized proof of liabilities."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484802?casa_token=m6VIvIuDRB0AAAAA:U-UqD_96tUC_iTWj3bg4V6ba9see5XBfh-fkTe5yZPzFYIvBI4_oRaNp9lTrt2JrpM8Ud7dMk4e-ZQ)
 * Kiayias, Aggelos, Nikos Leonardos, and Dionysis Zindros. ["Mining in logarithmic space."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484784)
 * Bhat, Adithya, Nibesh Shrestha, Zhongtang Luo, Aniket Kate, and Kartik Nayak. ["Randpiper–reconfiguration-friendly random beacons with quadratic communication."](https://dl.acm.org/doi/pdf/10.1145/3460120.3484574)
+### 2020 Accepted Papers
+* Wüst, Karl, Sinisa Matetic, Silvan Egli, Kari Kostiainen, and Srdjan Capkun. ["ACE: Asynchronous and concurrent execution of complex smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243)
+* Mirkin, Michael, Yan Ji, Jonathan Pang, Ariah Klages-Mundt, Ittay Eyal, and Ari Juels. ["BDoS: Blockchain denial-of-service."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417247?casa_token=AAGAX0gg-U4AAAAA:RL3yCAnHl0aEtWwbgyozrvw7edQxuxkean8spkYu76_u5r0Rpj1w3a8jeyjDIWO7HVstbn24kl_AXQ)
+* Schneidewind, Clara, Ilya Grishchenko, Markus Scherer, and Matteo Maffei. ["ethor: Practical and provably sound static analysis of ethereum smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250?casa_token=dXWaG4A-NqkAAAAA:IKhgd6VUK6Gt22KlUygfbV1Wy23PB6HVQEmei8mvGxEX91jBsQoIFKssd3XYgWlVh3v5N2tIkwuA1g)
+* Nguyen, Ky, Miguel Ambrona, and Masayuki Abe. ["WI is almost enough: Contingent payment all over again."](https://dl.acm.org/doi/pdf/10.1145/3372297.3417888)
 
 
 
@@ -124,3 +135,8 @@
 * Nguyen, Tai D., Long H. Pham, and Jun Sun. ["SGUARD: towards fixing vulnerable smart contracts automatically."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519444.pdf?casa_token=9xmigOfwYlgAAAAA:JmxKBLmQkQDSG3DV4Qt__P69FVsyJtlir_Z0VQAW75l8cYWtYR42aEkbWABZSINN4LpvSPtKJg)
 * Tsabary, Itay, Matan Yechieli, Alex Manuskin, and Ittay Eyal. ["MAD-HTLC: because HTLC is crazy-cheap to attack."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519476.pdf?casa_token=U4c0NTGjQuMAAAAA:1b4w8oIZHgN6Sp139mcM8iQLoC8Csb8FJ7inMLy2aRyoLs-cc5Po2uZHldS54B-C1jowTrwbQQ)
 * Cecchetti, Ethan, Siqiu Yao, Haobin Ni, and Andrew C. Myers. ["Compositional security for reentrant applications."](https://ieeexplore.ieee.org/iel7/9519381/9519382/09519436.pdf?casa_token=EVNrZcO1C2oAAAAA:iCGaTyuU7CIwcrvyKRmiJv2Hz_aqhv7c3qzH3LRofJ1IbH7YY8tToGQv0PRrQrNxcnGNspwDFg)
+### 2020 Accepted Papers
+* Schindler, Philipp, Aljosha Judmayer, Nicholas Stifter, and Edgar Weippl. ["Hydrand: Efficient continuous distributed randomness."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152802.pdf?casa_token=AHcRGLUJGpIAAAAA:kuKeY4DFB54lZD8WqJls8AOarY-Q03-LYAWPPEWNbOKCv4WMRW1hyFzQEsKRqQh7SMEUhXYb9g)
+* Yu, Haifeng, Ivica Nikolić, Ruomu Hou, and Prateek Saxena. ["Ohie: Blockchain scaling made simple."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152798.pdf?casa_token=FUlKxGgWtUcAAAAA:jq-eNrISTFk1baRmeOV9ly_1bBr5EL0zpCt0rodeLboVOuL9CGzm764DDwrhTK7uJ28RNL_GMQ)
+* Abraham, Ittai, Dahlia Malkhi, Kartik Nayak, Ling Ren, and Maofan Yin. ["Sync hotstuff: Simple and practical synchronous state machine replication."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152792.pdf?casa_token=pgV2NMzkNagAAAAA:9efG7qtG4mxsPl5bc1AUN5pgzjLjIxlSlbifPXS7TQewv_jSlny2VSuUG9Y8lVjrEBPKykJVwg)
+* Lee, Jonathan, Kirill Nikitin, and Srinath Setty. ["Replicated state machines without replicated execution."](https://ieeexplore.ieee.org/iel7/9144328/9152199/09152807.pdf?casa_token=8-qIhSKJ6gsAAAAA:B1c89_EPcnwNeZO4J-6N1g-5Dg1R7TMhRaq8R6zls4dNIptACiMJoZoMeCy2w5eL-9foIMNn3w)
