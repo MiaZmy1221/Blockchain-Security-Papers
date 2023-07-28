@@ -47,6 +47,14 @@
 * Zhang, Ren, Dingwei Zhang, Quake Wang, Shichen Wu, Jan Xie, and Bart Preneel. ["Nc-max: Breaking the security-performance tradeoff in nakamoto consensus."](https://eprint.iacr.org/2020/1101.pdf)
 * Guo, Bingyong, Yuan Lu, Zhenliang Lu, Qiang Tang, Jing Xu, and Zhenfeng Zhang. ["Speeding dumbo: Pushing asynchronous bft closer to practice."](https://www.ndss-symposium.org/ndss-paper/auto-draft-256/)
 
+### 2021 Accepted Papers (2 Cycles)  
+* Li, Kai, Jiaqi Chen, Xianghong Liu, Yuzhe Richard Tang, XiaoFeng Wang, and Xiapu Luo. ["As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service."](https://www.ndss-symposium.org/ndss-paper/as-strong-as-its-weakest-link-how-to-break-blockchain-dapps-at-rpc-service/)
+* Schindler, Philipp, Aljosha Judmayer, Markus Hittmeir, Nicholas Stifter, and Edgar Weippl. ["Randrunner: Distributed randomness from trapdoor vdfs with strong uniqueness."](https://www.ndss-symposium.org/ndss-paper/randrunner-distributed-randomness-from-trapdoor-vdfs-with-strong-uniqueness/)
+* Reijsbergen, Daniël, Pawel Szalachowski, Junming Ke, Zengpeng Li, and Jianying Zhou. ["LaKSA: A probabilistic proof-of-stake protocol."](https://www.ndss-symposium.org/ndss-paper/laksa-a-probabilistic-proof-of-stake-protocol/)
+* Hou, Charlie, Mingxun Zhou, Yan Ji, Phil Daian, Florian Tramer, Giulia Fanti, and Ari Juels. ["SquirRL: Automating attack analysis on blockchain incentive mechanisms with deep reinforcement learning."](https://www.ndss-symposium.org/ndss-paper/squirrl-automating-attack-analysis-on-blockchain-incentive-mechanisms-with-deep-reinforcement-learning/)
+* Wüst, Karl, Loris Diana, Kari Kostiainen, Ghassan Karame, Sinisa Matetic, and Srdjan Capkun. ["Bitcontracts: Supporting Smart Contracts in Legacy Blockchains."](https://www.ndss-symposium.org/ndss-paper/bitcontracts-supporting-smart-contracts-in-legacy-blockchains/)
+* 
+
   
 
 ## 3.CCS
