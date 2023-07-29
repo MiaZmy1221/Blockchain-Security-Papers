@@ -299,10 +299,41 @@ This repository is a comprehensive collection of academic papers accepted and pr
 * Breuer, Florian, Vipul Goyal, and Giulio Malavolta. ["Cryptocurrencies with security policies and two-factor authentication."](https://ieeexplore.ieee.org/iel7/9581154/9581061/09581244.pdf?casa_token=M_kwVBjNS70AAAAA:AGL2iC1bR7BSsFykVWe4CUb3YqNsjAwXtk6SFClHkL5Cgn9zvv4RlVV7alpGzvT5su_3QqUntQ)
 
 ### 2020 Accepted Papers 
-* 
+* Graf, Mike, Ralf Küsters, and Daniel Rausch. ["Accountability in a permissioned blockchain: Formal analysis of hyperledger fabric."](https://ieeexplore.ieee.org/iel7/9229479/9230353/09230387.pdf?casa_token=bKZY94mVLagAAAAA:Hiqp6v0TzoPh_Ut5075rzB_3wK7iNHo2-StADr5OwVAXDDXCUNOpsNVojr2KozuP-opt40YXGw)
 
+### 2019 Accepted Papers 
+* Khandaker, Mustakimur, Abu Naser, Wenqing Liu, Zhi Wang, Yajin Zhou, and Yueqiang Cheng. ["Adaptive call-site sensitive control flow integrity."](https://ieeexplore.ieee.org/iel7/8790377/8806708/08806734.pdf?casa_token=WyfWDs_dqacAAAAA:yB16UqVhIIeMSMpxyKTI1c8JKx00I33uXXHWLAKq6o04Y2L27aK1Hp7c2PtjMHexlog1phdygA)
+* Biryukov, Alex, and Sergei Tikhomirov. ["Deanonymization and linkability of cryptocurrency transactions based on network analysis."](https://ieeexplore.ieee.org/iel7/8790377/8806708/08806723.pdf?casa_token=yqjCyqOQeLcAAAAA:pfh3CiLktHhpE9NcK-QiWcEapo8Ys-4OgoJfZfVevU2Z9tkOQvIHWrMVMce9klZ75QiQOw6Pkw)
+* Cheng, Raymond, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, and Dawn Song. ["Ekiden: A platform for confidentiality-preserving, trustworthy, and performant smart contracts."](https://ieeexplore.ieee.org/iel7/8790377/8806708/08806762.pdf?casa_token=N9hzojM-h1oAAAAA:lBGOccTxmS0bJLraMR6LIeM4RTksgcGPPbkwTuR2OBW9Fyivm1k-HtVyBLu5zgkLrRWpA4FXIw)
+* Hutchings, Alice, and Sergio Pastrana. ["Understanding ewhoring."](https://ieeexplore.ieee.org/iel7/8790377/8806708/08806721.pdf?casa_token=A9TDB07jKi8AAAAA:_in2qh1xCc3kFEI6dmjxgk8ZA8_tg6fDLzqfQ2hd60E9WpX7ZUEhBug38nNLyiPRQjBYSJj7Dw)
 
+### 2018 Accepted Papers 
+* N/A
 
+### 2017 Accepted Papers 
+* N/A
 
+## 7. RAID
+### 2023 Accepted Papers 
+* Not published yet
 
+### 2022 Accepted Papers 
+* Wang, Dabao, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. ["Penny wise and pound foolish: quantifying the risk of unlimited approval of ERC20 tokens on ethereum."](https://dl.acm.org/doi/pdf/10.1145/3545948.3545963?casa_token=D2JV0SWoTFMAAAAA:WpaucBE6dehC_ZvILjwxdzICU3qkXovyIDp26CIXfGw3svrX6cAOG8254G-cs35UvyURgucYki4SrA)
+* Ferreira Torres, Christof, Hugo Jonker, and Radu State. ["Elysium: Context-aware bytecode-level patching to automatically heal vulnerable smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975)
+* Shi, Yang, Junqing Liang, Mianhong Li, Tianchen Ma, Guodong Ye, Jiangfeng Li, and Qinpei Zhao. ["Threshold EdDSA Signature for Blockchain-based Decentralized Finance Applications."](https://dl.acm.org/doi/pdf/10.1145/3545948.3545977?casa_token=jW9dtn43UkYAAAAA:midIGH7sGWlsMi0Tt_TIvyi6EQWti7wvlG2a7kCM2xbwZuIMrwU0Ej_q0xGOANHvGASIQTX2bmm3qA)
+
+### 2021 Accepted Papers 
+* Deng, Gelei, Yuan Zhou, Yuan Xu, Tianwei Zhang, and Yang Liu. ["An investigation of byzantine threats in multi-robot systems."](https://dl.acm.org/doi/pdf/10.1145/3471621.3471867?casa_token=iixJsS3NIbkAAAAA:4QidfbSnmwgXDMjigfPJrJqveD33J89OUhpEoBSQbV-GjnRXEMIVMFaV9Ta4BLywr3TYP8LiTiFMMA)
+
+### 2020 Accepted Papers 
+* N/A
+
+### 2019 Accepted Papers 
+* Cheng, Zhen, Xinrui Hou, Runhuai Li, Yajin Zhou, Xiapu Luo, Jinku Li, and Kui Ren. ["Towards a first step to understand the cryptocurrency stealing attack on ethereum."](https://www.usenix.org/system/files/raid2019-cheng.pdf)
+
+### 2018 Accepted Papers 
+* N/A
+
+### 2017 Accepted Papers 
+* N/A
 
