@@ -3,6 +3,10 @@ This repository is a comprehensive collection of academic papers accepted and pr
 
 ## 1. Usenix
 ### 2023 Accepted Papers 
+* Abramova, Svetlana, and Rainer Böhme. [Anatomy of a High-Profile Data Breach: Dissecting the Aftermath of a Crypto-Wallet Case.](https://arxiv.org/pdf/2308.00375)
+* Scaffino, Giulia, Lukas Aumayr, Zeta Avarikioti, and Matteo Maffei. [Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi.](https://eprint.iacr.org/2022/1721.pdf)
+* Miedema, Fieke, Kelvin Lubbertsen, Verena Schrama, and Rolf van Wegberg. [Mixed Signals: Analyzing Ground-Truth Data on the Users and Economics of a Bitcoin Mixing Service.](https://www.usenix.org/conference/usenixsecurity23/presentation/miedema)
+* Torres, Christof Ferreira, Fiona Willi, and Shweta Shinde. [Is Your Wallet Snitching On You? An Analysis on the Privacy Implications of Web3.](https://arxiv.org/pdf/2306.08170)
 * McLaughlin, Robert, Christopher Kruegel, and Giovanni Vigna. ["A Large Scale Study of the Ethereum Arbitrage Ecosystem."](https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin) 
 * Park, Sangdon, Osbert Bastani, and Taesoo Kim. "ACon $^ 2$: ["Adaptive Conformal Consensus for Provable Blockchain Oracles."](https://www.usenix.org/conference/usenixsecurity23/presentation/park)
 * Sun, Zhiyuan, Xiapu Luo, and Yinqian Zhang. ["Panda: Security Analysis of Algorand Smart Contracts."](https://www.usenix.org/conference/usenixsecurity23/presentation/sun)
