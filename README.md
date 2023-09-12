@@ -1,5 +1,5 @@
 # Blockchain-Security-Papers
-This repository is a comprehensive collection of academic papers accepted and presented at both top-tier (Usenix, NDSS, CCS, S&P) and second-tier (Asia CCS, Euro S&P, IMC, FC) conferences spanning from 2017 to the most recent years.
+This repository is a comprehensive collection of academic papers accepted and presented at both top-tier (Usenix, NDSS, CCS, S&P), second-tier (Asia CCS, Euro S&P, RAID, IMC), and third-tier (FC) conferences spanning from 2017 to the most recent years.
 
 ## 1. Usenix
 ### 2023 Accepted Papers 
