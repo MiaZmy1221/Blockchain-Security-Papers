@@ -369,7 +369,7 @@ This repository is a comprehensive collection of academic papers accepted and pr
 * N/A
 
 ## 9. FC
-### 2023 Accepted Papers 
+### [2023 Accepted Papers](https://fc23.ifca.ai/program.html) 
 * (Consensus) Christos Stefo (IST Austria & NTUA); Zhuolun Xiang (Aptos); Lefteris Kokoris-Kogias (IST Austria & Mysten Labs). ["Executing and Proving over Dirty Ledgers."](https://fc23.ifca.ai/preproceedings/170.pdf)
 * (Consensus) Andrew Lewis-Pye (LSE); Tim Roughgarden (Columbia. a16z). ["Byzantine Generals in the Permissionless Setting"](https://fc23.ifca.ai/preproceedings/49.pdf)
 * (Consensus) Adithya Bhat, Akhil Bandarupalli, and Saurabh Bagchi (Purdue University); Aniket Kate (Purdue University and Supra Research); Michael K. Reiter (Duke University). ["The Unique Chain Rule and its Applications."](https://fc23.ifca.ai/preproceedings/138.pdf)
@@ -386,7 +386,13 @@ This repository is a comprehensive collection of academic papers accepted and pr
 * (Layer 2) Ersoy, Oguzhan, Pedro Moreno-Sanchez, and Stefanie Roos. ["Get Me out of This Payment! Bailout: An HTLC Re-routing Protocol."](https://fc23.ifca.ai/preproceedings/94.pdf)
 * (Layer 2) Shen, Yu, Oguzhan Ersoy, and Stefanie Roos. ["Extras and Premiums: Local PCN Routing with Redundancy and Fees."](https://fc23.ifca.ai/preproceedings/93.pdf)
 * (Layer 2) Diamandis, Theo, Max Resnick, Tarun Chitra, and Guillermo Angeris. ["An Efficient Algorithm for Optimal Routing Through Constant Function Market Makers."](https://fc23.ifca.ai/preproceedings/181.pdf)
+* (DeFi) Messias, Johnnatan, Vabuk Pahari, Balakrishnan Chandrasekaran, Krishna P. Gummadi, and Patrick Loiseau. ["Dissecting Bitcoin and Ethereum Transactions: On the Lack of Transaction Contention and Prioritization Transparency in Blockchains."](https://fc23.ifca.ai/preproceedings/8.pdf)
+* (Smart contract) Kell, Tyler, Haaroon Yousaf, Sarah Allen, Sarah Meiklejohn, and Ari Juels. ["Forsage: Anatomy of a smart-contract pyramid scheme."](https://fc23.ifca.ai/preproceedings/31.pdf)
+* (Polkadot) Abbas, Hanaa, Maurantonio Caprolu, and Roberto Di Pietro. ["Understanding Polkadot Through Graph Analysis: Transaction Model, Network Properties, and Insights."](https://fc23.ifca.ai/preproceedings/131.pdf)
+* (Consensus) Andreina, Sebastien, Lorenzo Alluminio, Giorgia Azzurra Marson, and Ghassan Karame. ["Estimating patch propagation times across (blockchain) forks." ](https://fc23.ifca.ai/preproceedings/74.pdf)
 * (Game thoery) Heimbach, Lioba, Quentin Kneip, Yann Vonlanthen, and Roger Wattenhofer. ["DeFi and NFTs Hinder Blockchain Scalability."](https://fc23.ifca.ai/preproceedings/136.pdf)
 * (Game thoery) Tas, Ertem Nusret, and Dan Boneh. ["Cryptoeconomic Security for Data Availability Committees."](https://fc23.ifca.ai/preproceedings/19.pdf)
 * (Game thoery) Zhang, Yunqi, and Shaileshh Bojja Venkatakrishnan. ["Kadabra: Adapting Kademlia for the Decentralized Web."](https://fc23.ifca.ai/preproceedings/130.pdf)
 * (Game thoery) Leonardos, Stefanos, Daniël Reijsbergen, Daniël Reijsbergen, Barnabé Monnot, and Georgios Piliouras. ["Optimality Despite Chaos in Fee Markets."](https://fc23.ifca.ai/preproceedings/127.pdf)
+
+### [2022 Accepted Papers](https://fc22.ifca.ai/program.html) 
