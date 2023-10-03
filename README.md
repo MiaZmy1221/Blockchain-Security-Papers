@@ -319,7 +319,7 @@ This repository is a comprehensive collection of academic papers accepted and pr
 
 ## 7. RAID
 ### 2023 Accepted Papers 
-* Not published yet
+* N/A
 
 ### 2022 Accepted Papers 
 * Wang, Dabao, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. ["Penny wise and pound foolish: quantifying the risk of unlimited approval of ERC20 tokens on ethereum."](https://dl.acm.org/doi/pdf/10.1145/3545948.3545963?casa_token=D2JV0SWoTFMAAAAA:WpaucBE6dehC_ZvILjwxdzICU3qkXovyIDp26CIXfGw3svrX6cAOG8254G-cs35UvyURgucYki4SrA)
